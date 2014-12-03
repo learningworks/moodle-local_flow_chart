@@ -1,0 +1,25 @@
+form#flow_chart label {
+	display: inline-block;
+}
+
+form#flow_chart .submit {
+	float: right;
+}
+
+form#flow_chart .question{
+	width: 60%;
+	font-weight: bold;
+}
+
+form#flow_chart .answer {
+	margin-right: 4.5%;
+}
+
+form#flow_chart .radio {
+	margin-right: 0;
+}
+
+form#flow_chart .answer_box {
+	display: inline-block;
+	width: 20%;
+}
